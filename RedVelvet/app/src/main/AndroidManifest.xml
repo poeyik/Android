@@ -10,6 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RedVelvet">
         <activity
+            android:name=".RedVelvet7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvet6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvet5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvet4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvet3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvet2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvetActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvet2Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".RedVelvet1Activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

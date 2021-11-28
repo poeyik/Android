@@ -12,16 +12,19 @@
         android:layout_width="match_parent"
         android:layout_height="120dp">
     <ImageView
+        android:id="@+id/redelvet_1"
         android:src="@drawable/redvelvet_1"
         android:layout_width="100dp"
         android:layout_height="100dp"/>
 
     <ImageView
+        android:id="@+id/redelvet_2"
         android:src="@drawable/redvelvet_2"
         android:layout_width="100dp"
         android:layout_height="100dp"/>
 
     <ImageView
+        android:id="@+id/redelvet_3"
         android:src="@drawable/redvelvet_3"
         android:layout_width="100dp"
         android:layout_height="100dp"/>
@@ -31,16 +34,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <ImageView
+            android:id="@+id/redelvet_4"
             android:src="@drawable/redvelvet_4"
             android:layout_width="100dp"
             android:layout_height="100dp"/>
 
         <ImageView
+            android:id="@+id/redelvet_5"
             android:src="@drawable/redvelvet_5"
             android:layout_width="100dp"
             android:layout_height="100dp"/>
 
         <ImageView
+            android:id="@+id/redelvet_6"
             android:src="@drawable/redvelvet_6"
             android:layout_width="100dp"
             android:layout_height="100dp"/>
@@ -50,6 +56,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <ImageView
+            android:id="@+id/redelvet_7"
             android:src="@drawable/redvelvet_7"
             android:layout_width="100dp"
             android:layout_height="100dp"/>
